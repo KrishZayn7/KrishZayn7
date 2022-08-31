@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
 
 <b>🔥 Github Streaks</b>
-<p align="center">http://github-readme-streak-stats.herokuapp.com?user=KrishZayn7&theme=nightowl)](https://git.io/streak-stats) </p>
+<p align="center"><img src= http://github-readme-streak-stats.herokuapp.com?user=KrishZayn7&theme=nightowl)](https://git.io/streak-stats)/> </p>
 
 <!--
 
